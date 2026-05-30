@@ -38,4 +38,4 @@ This repository contains the schematic design of a 3-bit asynchronous (ripple) u
 | 10 | Resistor | 330Ω Current Limiting Resistors (LEDs & Display) | Axial |
 | 1 | Resistor | 1kΩ Timing Resistor | Axial |
 | 1 | Resistor | 10kΩ Pull-Up Resistor (Reset Circuit) | Axial |
-| 1 | Tactile Switch | Push-Button (Momentary Switch) | 4-pin THT |
+| 1 | Tactile Switch | Push-Button (Momentary Switch) | 2-pin THT |
